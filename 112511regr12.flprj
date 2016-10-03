@@ -1,0 +1,3 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultProject Version="1" MasterStylesheet="/Content/Resources/Stylesheets/Styles.css" MasterPageLayout="/Content/Resources/PageLayouts/Default.flpgl" MasterStylesheetOverride="True" xml:lang="en-us" SourceControlBound="true" Comment="This template contains a minimum number of content and project files, including a single topic. It is the best choice for those who want to begin with a skeleton project." SourceControlDatabaseRoot="D:\Flare Projects\112511regr12" SourceControlDatabase="D:\Flare Projects\112511regr12\.git" SourceControlProviderType="Git" ProjectGuid="9a55f376-472b-4a7e-b911-76000078e663">
+</CatapultProject>
